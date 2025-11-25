@@ -1,0 +1,1340 @@
+und Experten im Wesentlichen des BSI und
+um diese Kriterien geht es und natürlich
+geht es auch darum nicht zu abhängig zu
+sein von bestimmten Anbietern
+dann nochmal über nette weiter ja
+Gabriel von politico plant die Regierung
+hier denn eine grundlegende Änderung
+ihrer Politik oder sendet sie nur ein
+Signal auf der Grundlage des bestehenden
+Rechtsrahmens und handelt es sich um
+einen Rip place oder eher mein face out
+von diesen Teilen sollten Sie denn in
+der Prüfung als problematisch
+Sicherheiten also die Begriffe würde ich
+mir nicht zur eigen machen dass
+es gibt die Regelung in paragraph 9b des
+bsi-gesetzes wie gesagt vor zwei Jahren
+durch das it-sicherheitsgesetz
+eingeführt diese Prüfung laufen welche
+zwei Stränge ist da gibt habe ich ja
+gerade erläutert ähm dass er möglichst
+auch die Überprüfung und auch die
+Untersagung von bestandskomponenten also
+kritischen Komponenten die schon in 5g
+Netzen verwendet werden
+insofern ja basieren die jetzt laufenden
+strengenden Sicherheitsprüfungen auf dem
+bestehenden deutschen Recht
+was wiederum auch sozusagen im
+europäischen Recht sein Niederschlag
+findet was sich anlehnend anders
+europäische Recht und gleichzeitig
+prüfen wir ob es auch weiterhin
+weiterhin gesetzgeberischen
+Handlungsbedarf gibt dass bsi-gesetz da
+noch mal anzupassen um möglicherweise
+auch sozusagen sonstigen Bereich
+kritischer Infrastrukturen da wissen sie
+dass
+das Bundesinnenministerium an einem
+sogenannten kritis dachgesetz arbeitet
+um erstmals die
+Sicherheitsanforderungen an die
+Betreiber kritischer Infrastrukturen in
+einem Gesetz zusammen zu führen das
+betrifft primär den physischen Schutz
+und weniger die digitale Welt aber auch
+da geht es möglicherweise darum
+Abhängigkeiten zu verringern und
+bestimmte Sicherheitsrisiken
+auszuschließen und deswegen prüfen wir
+auch für dieses Gesetz ob wir da
+entsprechende Regelungen aufnehmen einen
+Nachfrage können Sie vielleicht noch mal
+etwas spezifizieren oder damit wir das
+quasi genau damit wäre sicher sind
+handelt es sich um Kernsätze Antennen
+und Masken oder verfolgt dass wir ihm
+eine andere Differenzierung wenn es
+jetzt um diese Stelle geht können Sie da
+vielleicht noch mal genauer einfach
+sagen was es geht es geht insgesamt um
+Komponenten die die genannten
+Sicherheitsrisiken also insbesondere für
+die Integrität für die
+Funktionsfähigkeit auch für die
+Vertraulichkeit der Kommunikation
+beinhalten können mit sich bringen
+können und insofern geht es jetzt im
+Gesetz nicht um die Differenzierung
+zwischen Elementen wo die jeweils
+verbaut sind das ist eine Technologie
+neutral formuliert
+aber je kritischer Komponenten sind für
+die Funktionsfähigkeit des Systems
+insgesamt desto strenger müssen Sie
+natürlich auch bewertet werden
+bitte immer auf der Seite ja ich würde
+zudem Thema gerne gerade das Auswärtige
+Amt auch mal fragen ob es nach ihrer
+Ansicht irgendwelche Erkenntnisse gibt
+inwiefern
+Kräfte in China versuchen eben über
+deutsche Infrastruktur oder Mobilfunk
+Infrastruktur dann dann für
+Sabotage Destabilisierung zu sorgen
+also vielen Dank für die Frage aber ich
+kann dazu jetzt hier nicht spekulieren
+oder zumindest habe ich keine
+Erkenntnisse die ich jetzt mit Ihnen
+hier an diesem an dieser Stelle teilen
+könnte
+dann würde ich ans bmwk noch die Frage
+stellen zu diesem Thema was hätte das
+denn für Konsequenzen für die
+Handelsbeziehungen Deutschland und China
+wenn es zu einem Verbot von
+komponentennutzung
+auch darüber würde ich an dieser Stelle
+nicht spekulieren
+so dann machen wir jetzt mal einfach mit
+Herrn wild weiter zu dem Thema ja vielen
+herzlichen Dank Christian wilb RTL NTV
+eine Frage an das
+Verteidigungsministerium es ist heute
+ein Video aufgetaucht von einer
+mutmaßlichen Erschießung eines
+ukrainischen Kriegsgefangenen
+darf ich kurz das Thema zurückstellen
+weil wir werden mal bei diesem Thema
+kritische Infrastruktur
+telekommunikationsgesetze ich würde mal
+unter Huawei zusammenfassen und machen
+weiter behandelt
+können sie bestätigen dass in letzter
+Zeit aber noch mal der der Einbau von
+Huawei Komponenten
+genehmigt worden ist gegen aufgrund der
+noch geltenden Gesetzeslage und das ist
+das zweite Frage möglicherweise sind
+auch der Grund warum die Gesetzes
+Gesetzgebung jetzt angepasst werden muss
+weil man möglicherweise ja nicht mehr
+also wenn man eine bessere Hand habe
+gegen Huawei haben möchte
+also es sind bisher keine Komponenten
+untersagt worden das liegt aber daran
+dass die Prüfungen noch laufen und sich
+gerade jetzt ähm das ist eben auch sagen
+das neue Stadium dieser Überprüfungen
+auch bestandskomponenten beziehen und
+die Ergebnisse müssen wir abwarten das
+heißt man kann nicht davon sprechen dass
+hier etwas genehmigt wurde und
+Untersagungen sind dadurch aus möglich
+hey
+das vor vielleicht das Mikrofon ist
+einfach
+die Kollegen der Süddeutschen Zeitung
+berichten die Bundesregierung halte die
+derzeitige gesetzliche Regelung für
+unzureichen und zwar weil die Behörden
+im Vorfeld den Einbau solcher
+Komponenten nicht verhindern könnten ist
+das so zu treffend
+ich habe ja gesagt hey man das wir auch
+gesetzgeberischen Handlungsbedarf prüfen
+um Sicherheitsrisiken noch besser
+ausschließen zu können und
+Abhängigkeiten von bestimmten
+Herstellern verringern zu können
+insofern schauen wir uns das bsi-gesetz
+und die Regelung da noch mal sehr genau
+an möglicherweise auch nicht nur für den
+Bereich der Telekommunikation sondern
+etwa auch im Bereich der
+Energieinfrastruktur geht es darum und
+schauen uns das auch mit Blick auf die
+laufenden Arbeiten am kritis dachgesetz
+eben für kritische Infrastrukturen
+insgesamt an
+dann machen wir weiter hier vorne in der
+mit
+ich würde interessieren läuft das denn
+also gibt's da schon Reaktionen aus
+China oder informiert man die
+chinesische Seite über sowas oder läuft
+das völlig unabhängig
+ich habe jetzt gar nicht über bestimmte
+Hersteller gesprochen ich kann ihnen von
+Reaktionen hier nichts berichten
+dann machen wir hinten weiter bitteschön
+ja vielen Dank Herr Karl wie ist das mit
+der Haftungsfrage müssten die
+Unternehmen dann quasi auf eigene Kosten
+diese Komponenten dann wieder entfernen
+die dann nicht genehmigt werden
+die Antwort auf die Frage müsste ich
+Ihnen nachreichen aber nicht dass das im
+bsi-gesetz geregelt ist dass das
+Rechtsfragen sind die gegebenenfalls
+dann noch zu klären werden
+ja ich habe eine Frage ganz bmwk zu dem
+Thema und zwar das war die
+Vorgängerregierung wenn ich mich richtig
+erinnere hatte ja immer das Argument
+geführt eigentlich man könnte eigentlich
+nichts gegen Huawei ausrichten mit
+Gesetzen weil es ja dass dieses diesen
+Gleichbehandlung gibt und man kann
+könnte nicht per se ein einzelnes
+Unternehmen da aussortieren ist das nach
+wie vor die Haltung der also das war das
+Argument damals vom
+Wirtschaftsministerium von den Altmaier
+ist das nach wie vor ein gültiges
+Argument für Sie oder meinen Sie oder
+sehen Sie jetzt auch dass man sagt na ja
+nee die Dinge sind jetzt so haben sich
+so schlecht entwickelt dass man einfach
+das dann doch macht
+also die das ist korrekt dass es unter
+der Vorgängerregierung dieses Thema bei
+uns im Haus lag jetzt liegt der Bereich
+der Telekommunikation allerdings im
+bmdv in so weit müssten sich die
+Kollegen dann zum jetzigen Stand äußern
+aber das ist ja jetzt geht es ja nicht
+um explizit Informationstechnologie
+sondern das geht ja um eine
+wirtschaftspolitische Frage also wenn
+man sagt okay
+jedes Unternehmen muss gleich behandelt
+werden wir sind in der freie
+Marktwirtschaft dann das ist ja doch
+eher noch Wirtschaftsministerium Thema
+würde ich sagen
+also inwieweit ist Vorgaben im Bereich
+der
+telekommunikationstechnologien gibt hat
+die Ressort Zuständigkeit gewechselt
+insofern kann ich mich hier heute an
+dieser Stelle nicht dazu äußern
+aushelfen da ich in der Vorgänger
+Regierung zumindest ein paar Plätze
+weiter ab und zu saß das ist ja die
+Grundlage für das Gesetz auf dem jetzt
+all diese Maßnahmen passieren und sie
+waren dezidiert nicht gegen einzelne
+Hersteller oder die Herkunft einzelne
+Hersteller gerichtet und sind generell
+gerichtet auf unsere Infrastruktur um
+die kritische Infrastruktur und das wird
+geprüft unabhängig davon woher ein
+einzelner Hersteller kommt oder so und
+das sind die Grundlagen die auch
+weiterhin gelten und deswegen hat er ja
+auch darauf hingewiesen dass er nicht
+sich an einen einzelnen Hersteller jetzt
+gewandt hat oder das ist darum geht
+sondern es ist eine ganz grundsätzliche
+Regelung die wir da verfolgen
+also genau mit der Regierung Sprecher
+gesagt hat die Prüfung bezieht sich auf
+Komponenten nicht auf bestimmte
+Hersteller genauso ist es im Gesetz
+geregelt und genauso ist es auch auf
+EU-Ebene als Grundsatz festgehalten
+dann ist jetzt erst vergessen worden
+ja die Frage knüpft hat direkt an wir
+reden ja im Moment wesentlich über 5g in
+Deutschland wird aber überwiegend 4 und
+3G benutzt findet eine Überprüfung der
+Komponenten sei es von Norway oder
+anderen Herstellern auch in diesen
+Netzen noch statt
+also die Regelungen im bsi-gesetz
+bezieht sich auf das 5g Netz und die
+Überprüfung und die Netzbetreiber
+stellen ja ihre Netze auf 5g um insofern
+geht es darum dort die Komponenten zu
+prüfen
+aber man kann auch soweit mir bekanntes
+wenn da kein Experte überwachen auch mit
+vier und mit 3G sofern das noch
+weiterhin im Betrieb ist haben sie dann
+da nicht ein blinden Fleck wenn sie zwar
+5g sozusagen mich an nichts man einbauen
+aber für die vorherrschende Technik
+nicht
+da also ich kann jetzt mit Ihnen hier
+nur bedingt in die Vergangenheit schauen
+wird sie auch bitten diese Frage
+tatsächlich an die Netzbetreiber zu
+richten die ja für die Integrität und
+Vertraulichkeit der Kommunikation ihrer
+Kundinnen und Kunden auch in gewisser
+Weise wirken die sicherstellen müssen
+welche technischen Vorkehrungen da
+getroffen werden das wäre als
+allererstes eine Frage an die Hersteller
+und dazu wie das in der Vergangenheit
+auch sozusagen früheren Rechtsgrundlagen
+gehandhabt wurde kann ich gerne noch mal
+recherchieren bei unseren Experten
+Experten fragen
+die Hauptstadtstudio auch dazu sie
+sprechen von Komponenten könnten sie das
+konkretisieren was das für Komponenten
+zum Beispiel sein würden gibt es dafür
+Begrifflichkeiten und das andere ist wer
+überprüft am Ende welche Komponenten da
+tatsächlich verbaut sind oder nicht
+also die Brühe Überprüfung laufen durch
+das BSI das Bundesamt für die Sicherheit
+in der Informationstechnik welche
+Komponenten das kann ich ihnen von hier
+aus nicht sagen dass es geht um eine
+Vielfalt an Komponenten die an
+verschiedenen Stellen der Netzen
+Struktur verbaut sind das würde glaube
+ich tief in technische Fragen
+hineinführen
+noch mal dazu
+war das Thema Huawei auch Thema beim
+Gespräch des Bundeskanzlers mit mit dem
+US-Präsidenten am Freitag das ist ein
+netter Versuch Herr der ist aber wie Sie
+wissen aus vertraulichen Gesprächen vier
+Augen Gesprächen will ich nicht
+berichten und in dem Fall kann ich es
+auch gar nicht weil es war ja auch
+sie schließen nicht aus dass es das
+Thema war kann man so so schön
+formulieren ich nehme mal das Gelächter
+an dass ich da eine Antwort ersparen
+kann
+gibt es weitere Fragen zu dem Komplex
+das sehe ich nicht dann ist er will dran
+mit der Frage die
+herzlichen Dank sorry wegen eben
+also neues Thema es ist ein mutmaßliches
+Video aufgetaucht eine Erschießung eines
+ukrainischen Soldaten durch russische
+Soldaten
+wegen dem Verteidigungsministerium
+darüber Erkenntnisse vor und was
+unternimmt Deutschland eigentlich
+konkret und Kriegsverbrechen in der
+Ukraine zu ahnen gibt es da eine
+irgendwie geartete Unterstützung der
+ukrainischen Regierung und
+Verbrechen nachzuhalten und eine Frage
+an das Außenministerium nach
+Informationen des irakischen
+Außenministeriums befindet sich die
+bundesaußenministerin aber auf einer
+Reise in den Irak können Sie etwas dazu
+sagen zum Programm können Sie die Reise
+bestätigen ich meine es ist schon
+davon irakischer Seite bestätigt worden
+und hat das Reisedatum auch etwas zu tun
+mit dem Internationalen Frauentag der ja
+ansteht ist die das Programm also auch
+daraufhin ausgerichtet zumal unter dem
+Gesichtspunkt der von der
+Außenministerin der ausgerufenen
+feministischen Außenpolitik vielen Dank
+jetzt haben wir mit dem BMVg mal an
+dem wir MVG liegen keine eigenen
+Erkenntnisse vor haben die
+Berichterstattung zu Kenntnis genommen
+und ähm ob das ein Verdacht hinsichtlich
+eines weiteren schrecklichen
+Kriegsverbrechens Russland ist müssen
+andere nachgehen
+vielleicht auch noch mal Ergänzen von
+mir also die wir haben diese Aufnahme
+die einen sozialen Medien kursiert auch
+gesehen der echt schockierend ist und
+also wenn das authentisch ist dann wäre
+das ein Kriegsverbrechen das ist ja so
+nach dem Völkerrecht dass die
+Hinrichtung
+unbewaffneter Soldaten einen einen
+Kriegsverbrechen ist
+es ja auch so dass ich solche Bilder
+einfügen in Bilder die wir ja auch schon
+aus der Ukraine kennen ähm und sie
+wissen ja auch das haben wir hier glaube
+ich auch schon vorgetragen dass es jetzt
+zu mutmaßlichen Kriegsverbrechen auch
+eine ganze Reihe von Ermittlung gibt
+unter anderem auch vom Chef Ankläger des
+isdgh die ihr ja auch von von deutscher
+Seite unterstützen Sie Ihre zweiten
+Frage
+sehen Sie es mir nach dass ich sie zum
+jetzigen Zeitpunkt hier wieder
+dementieren noch kommentieren noch
+bestätigen kann ich sag vielleicht noch
+mal ganz allgemein das ist natürlich
+auch immer wieder solche Reisen gibt wo
+wir aus bestimm vielleicht für Sie
+nachvollziehbaren Gründen hier keine
+vorabreiseankündigung machen
+insofern muss ich mich jetzt auf da das
+beschränken was ich eben gesagt habe
+sind sie dann beim News darüber dass die
+irakische Seite offenbar kein Problem
+mehr mit hatte den Termin öffentlich zu
+machen es wird also sie hatten richtet
+in Agenturen und dergleichen also es
+scheint ja kein Geheimnis mehr zu sein
+also
+Diplomaten sind weder verärgert noch im
+Used insofern kommentiere ich das nicht
+weiter die sie hat noch gefragt ob sich
+das einfügt in das was wir da letzte
+Woche hier vorgestellt haben sie können
+davon ausgehen dass sich alle
+Aktivitäten der Außenministerin in in
+ihre feministische Außenpolitik der
+einfügen unter Berücksichtigung finden
+und der Termin Frauentag Zufall oder
+Absicht also lieber wirklich zu dem
+Thema Frage die eine entweder Reise der
+Außenministerin heute betrifft habe ich
+mich jetzt hier eingelassen mehr wenn
+ich dazu nicht sagen
+er kam möchte gerne noch mal Ergänzung
+zum ersten Teil Ihrer Frage was
+genau das waren ja viele Fragen aber ich
+komme noch mal zurück weil sie ja fragen
+was Deutschland tut um die Ukraine bei
+der Aufklärung von Kriegsverbrechen zu
+unterstützen richtig genau ich kann mich
+jetzt zu dem dem ganz konkreten Fall zu
+dem auf den sie sich gerade bezogen
+haben natürlich noch nicht äußern da
+muss natürlich auch erstmal so ein
+aufgeklärt und eingeordnet werden aber
+generell ist es so dass das
+Bundeskriminalamt Ermittlungen führt im
+Rahmen des Ermittlungsverfahrens des
+Generalbundesanwalts eines glaube ich
+sogenannten
+strukturermittlungsverfahrens das könnte
+der Kollege aus dem Jahr besser sagen
+ist der Generalbundesanwalt führt wegen
+mutmaßlicher Kriegsverbrechen in der
+Ukraine das Bundeskriminalamt befragt
+vor allem geflüchtete in Deutschland als
+Zeugen und und wird weitere Ermittlungen
+in diesem Rahmen dazu könnte sich
+gegebenenfalls an die Bundesanwaltschaft
+äußern und Deutschland stellt der
+Ukraine also den Ermittlungsbehörden in
+der Ukraine diverses an Material
+Ausstattung
+zur Verfügung des BKA hat im Jahr 2022
+Güter zu Unterstützung der forensischen
+Arbeit zur Aufklärung von möglichen
+Kriegsverbrechen insbesondere zur
+Spurensicherung Dokumentation
+entschärferausrüstung Fahrzeuge und
+andere Einsatzmittel im Wert von über
+11,5 Millionen Euro den ukrainischen
+Partnerbehörden zur Verfügung gestellt
+auch die Bundespolizei unterstützt die
+ukrainischen Behörden insbesondere durch
+Wärmebild Nachtsichtgeräte Schutzwesten
+sondergeschützte Fahrzeuge das alles
+sind ja Teile der zivilen Unterstützung
+die Deutschland für die Ukraine leistet
+und die auch gerade der Aufklärung muss
+sicher Kriegsverbrechen dient
+Ergänzung aus dem Betriebssystem
+nein da kann ich eigentlich den Zupfen
+der Generalbundesanwalt für das
+strukturmittlungsverfahren und das hat
+der auch richtig ausgeführt
+so gibt es weitere Fragen zu dem ersten
+Teil also zu Kriegsverbrechen erstmal
+nicht gibt es weitere Fragen zum Thema
+irakreise auch nicht dann habe ich sie
+gesehen aber zuerst
+ja es geht um die diese ganze
+da ist jetzt ein Brüssel also eine Frage
+an Herrn hebestreiter ist ja und und
+dann Verkehrsministerium natürlich da
+ist ja in Brüssel jetzt ziemlicher
+Verärgerung weil man
+wenn man da meint dass Deutschland da
+ein letzter Sekunde oder Minute da noch
+an Newton gemacht hat in der Frage weil
+ja eigentlich das haben wir auch
+deutsche Medien berichtet der
+Verkehrsminister dem Kompromiss der
+damals ausgehandelt wurde im Mitte
+November schon zugestimmt hatte meine
+Frage ist was hat denn jetzt eigentlich
+noch mal genau zum zum Umdenken
+des Ministers in dieser Sache geführt
+also es war ganz vergessen und und eine
+nebenstreit
+können sie
+haben Sie Verständnis für die
+Verärgerung in Brüssel weil sie ja in
+der Tat das muss man ja mal feststellen
+ja schon noch in letzter Minute jetzt
+befindet diese dieser Blockade
+Deutschlands das ist eines der
+glücklichen Situation in der ich viele
+Fragen auf einmal beantworten kann
+soweit ich das verstanden habe ist die
+Zustimmung des Verkehrsministeriums zu
+dem gefundenen Kompromiss im November
+und einer Prämisse zustande gekommen
+nämlich unter der Prämisse das ist
+außerhalb der Regelung für die
+flottengrenzwerte bis 2035 eine Regelung
+für e-fuels gibt und diese Regelung bzw
+diese diese Würdigung dieses Faktes die
+steht noch aus und jetzt finden
+Gespräche statt auf Arbeitsebene mit der
+EU-Kommission dass man diese noch
+ausstehende Regelung
+auch zustande kriegt und dazu hat sich
+die
+eu-kommissionspräsidentin am Sonntag in
+ihrer Pressekonferenz in Meseberg
+eingelassen dazu hat sich Herr Wissing
+gestern eingelassen und wenn ich mich
+richtig erinnere auch der Finanz und der
+Minister gestern und der Bundeskanzler
+insofern habe ich den gar nichts
+hinzuzufügen sondern würde darauf
+verweisen was alle gesagt haben und das
+ist entspricht der Linie die ich ihnen
+eben gerade auch geschildert habe
+Ergänzung geht jetzt Verkehrsmittel
+keine
+Zusatz also aus ihrer Antwort könnte man
+jetzt ableiten sie haben kein
+Verständnis dafür dass man er jetzt in
+Brüssel verärgert ist über die
+Bundesregierung ich finde Herr Wagner
+hat das so schön für die duplomaten
+gesagt ich nehme das auch für
+Regierungssprecher in Anspruch
+zu dem Thema
+dann hat sie noch eine Frage wunderbar
+bitte schön ja Fabian Busch von lebte
+und GMX herr Scholz hat gestern gesagt
+die EU-Kommission wäre jetzt am Zug was
+vorzulegen ich habe sie jetzt aber so
+verstanden dass die Bundesregierung
+schon auch sozusagen mit überlegt über
+mögliche Kompromisse oder wo sehen sie
+da die Rolle der Bundesregierung die
+Bundesregierung befindet sich im
+Gespräch mit der EU-Kommission auf das
+das was dann vorgelegt wird Leben
+entspricht was wir alle gemeinsam uns
+wünschen
+weitere Fragen zum Thema sehe ich nicht
+dann hätte noch mal bitte bitte noch mal
+tatsächlich an Wirtschaftsministerium
+die Frage stellen wie wie ist eigentlich
+die vielleicht hat der
+Arbeit schon was dazu gesagt ich habe es
+vielleicht nicht mitgekriegt was ist
+eigentlich jetzt essen Haltung zu dem
+Thema weil im Grunde genommen als grüner
+Minister müsste man ja eigentlich eher
+jetzt auf Seiten der EU-Kommission
+stehen
+oder also zu dem Thema werde ich mich
+nicht über das hinaus jetzt hier an
+dieser Stelle einlassen was die Kollegen
+gerade ausgefüllt haben also er trägt
+das er trägt die Haltung der
+Bundesregierung dieser Form mit die
+Blockade
+ich kann mich da jetzt nur wiederholen
+hat keine Haltung also die
+Zuständigkeiten liegen im bmuv und im
+bmdv der Regierung Sprecher hat sich
+gerade ebenfalls schon geäußert
+von mir gibt es an dieser Stelle jetzt
+keine Ergänzung jetzt doch vergessen ja
+doch ich würde dann gerne von vom bmuv
+Wissen
+ist das auch die Position Ihres Hauses
+das eigentlich die sagen wir mal
+momentane Blockade oder nicht Zustimmung
+des Verkehrsministers dem entspricht was
+die komplette Bundesregierung als
+Kondition
+vorab beschlossen hat das würde dann ja
+auch ihre Ressort einschließen bisher
+habe ich zumindest auch den Disput
+zwischen ihren Häusern anders verstanden
+also es steht fest es gibt noch sehr
+viel Klärungsbedarf in dieser Sache und
+sie haben jetzt auch ja schon mehrfach
+gehört dass es dazu noch Gespräche gibt
+die jetzt die laufen derzeit noch und
+insofern würde ich jetzt dem
+Regierungssprecher an der Stelle nicht
+mehr hinzufügen und einfach auf die
+laufenden Gespräche verweisen und deren
+Ergebnisse abwarten
+entschuldigung wenn ich danach frage
+aber wenn es so ist wie der Regierung
+Sprecher sagte dass die Bundesregierung
+gesagt hat wir sind für das Verbrenner
+aus wenn die Frage e-fuels geklärt ist
+das ist aber derzeit nicht der Fall wenn
+das regierungsmeinung ist dann müssten
+sie doch mit dem Vorgehen des
+Verkehrsministers völlig einverstanden
+sein oder sehe ich das falsch
+also das ist ja noch im Prozess und
+insofern würde ich da erstmal nichts
+weiter mitgeben was ihnen was sie zu
+Interpretation einlädt also das
+Gespräche laufen wir finden werden sich
+eine Lösung finden
+da sagen die Experten ja dass man im
+Vergleich zu der strombetankung für ein
+E-Auto achtmal so viel erneuerbare
+Energie braucht ich habe jetzt aber
+nicht wahrgenommen dass er deswegen
+dafür kämpft dass unsere der Ausbau der
+erneuerbaren Energien die sich
+verachtfacht warum nicht das tut er sehr
+wohl also im Rahmen der
+planungsbeschleunigung setzen wir uns
+sehr wohl auch für den beschleunigten
+Ausbau innerhalb der Bundesregierung der
+erneuerbaren Energien
+und das also die achtfache
+Geschwindigkeit damit diese ifuels
+hergestellt gerade letzte Woche erst
+haben wir einen einheitlichen Durchbruch
+beider Beschleunigung des Ausbaus der
+erneuerbaren Energien erzielt und dem
+hat unser Haus auch ausdrücklich
+zugestimmt ja
+Verkehrsminister den achtfachen ich
+denke nicht dass es ein breaking news
+ist dass sich der Verkehrsminister für
+den Klimaschutz einsetzt aber diese
+Diskussion haben wir schon am Freitag
+geführt und
+Herr Hebestreit hat heute noch mal
+ausführlich gemacht auch noch mal
+erklärt dass es nicht die
+Blockadehaltung des Verkehrsministers
+ist sondern dass ich Deutschland eben
+dafür einsetzt dass wir alle
+Technologien die uns bei der Erreichung
+unserer Klimaziele behilflich sein
+können in Zukunft einsetzen können und
+da geht's nicht um eine Blockadehaltung
+sondern geht's darum
+eine Zukunft sichernde Maßnahme
+einzuführen so und aktuell liegt ja bei
+der Kommission und das haben wir heute
+noch mal deutlich gemacht gibt es
+weitere Fragen zur Debatte um Verbrenner
+aus und
+das sehe ich nicht dann ist er jetzt mit
+einem neuen Thema er das bezieht sich
+doch noch mal auf die Ukraine
+kann die Bundesregierung einen Update
+geben von welchen Staaten mittlerweile
+verbindliche Zusagen über die Lieferung
+von Kampfpanzern gegeben worden
+also eine
+deutlich Übersicht sehr lange Übersicht
+inzwischen ist ja auf den Online-Seiten
+der Bundesregierung vorhanden dort
+können Sie sämtliche Lieferungen die mit
+unserer Beteiligung geschehen sind auch
+Überwachung und was den Leopard 2 wenn
+sie da jetzt darauf anspielen also den
+zwei A6 wo wir ja ein wenig die
+Federführung übernommen haben ist die
+Lage ja bekannt da hat sich jetzt zu den
+32 Nationen die bekannt sind nicht noch
+jemand dazugehört
+kommen denn oder ist absehbar dass noch
+weitere Zusagen über weitere Lieferungen
+erfolgen werden oder ist das jetzt der
+bekannte Status ist das vermutlich
+entstadium also für die jetzige
+Initiative ist es so dass wir ja die
+Ausbildung derzeit mit den Ukraine in
+Deutschland durchführen und pünktlich
+abschließen werden dann wird die
+Lieferung des Pakets erfolgen und über
+das hinaus gibt es derzeit keine
+konkreten Planung für weitere Pakete
+weitere Fragen zu diesem Komplex
+bitteschön
+im weiteren Sinne noch mal also die der
+Verteidigungsausschuss des britischen
+Parlaments kommt jetzt zu der
+Einschätzung die Munitionsbestände in
+den NATO-Staaten sein auf einen
+gefährlichen niedriges Niveau
+geschrumpft das Gefährt auch die eigene
+Sicherheit ist die Einschätzung können
+Sie noch mal sozusagen die Übersicht
+geben wie es um die Munitionsbestände
+der Bundeswehr bestellt ist also ich
+kann natürlich die Einschätzung anderer
+Parlamente hier überhaupt nicht
+kommentieren und dass wir ein
+Investitionsbedarf im Munition allein
+aufgrund der NATO Anforderungen haben
+haben sowohl der Generalinspektor der
+verteilungsminister auch andere
+Verantwortungsträger in der Bundeswehr
+bereits deutlich angesprochen und
+beziffert sie wissen auch dass wir dort
+Investitionsvolumen bis 2031 von etwa 20
+Milliarden Euro sind
+aber wenn Sie jetzt die konkrete
+Äußerung nicht kommentieren wollen aber
+es sie Einschätzung korrekt dass die
+eigene das ist eine Gefahr für die
+eigene Sicherheit ist ich bleibe bei
+meinem Worten
+ja ist denn Herr Hebestreit das
+Kanzleramt oder der Kanzler selbst
+zufrieden mit dem Umfang der jetzt in
+Aussicht gestellten von anderen Staaten
+in Aussicht gestellten Lieferung von
+Leopard 2 Panzern die Debatte im Januar
+hatte ja von wem auch immer initiiert
+teilweise den Eindruck vermittelt
+andere Staaten würden nur drauf warten
+dass Deutschland endlich von der Bremse
+geht damit sie liefern könnten ist der
+derzeitige die derzeitige geliefert
+Zusage
+findet sie ist der Bundeskanzler damit
+völlig einverstanden oder hätte oder hat
+er sich mehr erhofft
+Bundesregierung ist erstmal froh dass
+das was wir geplant haben was wir in den
+in der Äußerung zu den Panzer
+Lieferungen in Leopard 2 Lieferung
+angekündigt haben nämlich zwei Bataillon
+auszustatten einmal ein Bataillon mit
+Leopard 2 A4 Panzern unter anderem mit
+polnischen mit der polnischen
+mit dem polnischen Angebot als auch die
+neueren Leopard 2 A6 Panzer von den 18
+dann aus Deutschland stammen werden
+welche aus Portugal und
+aus Norwegen Schweden Schweden damit
+auch haben wir die 31 voll erstmal das
+ist ein gutes Zeichen dass man natürlich
+immer wieder gucken muss auch
+miteinander sprechen muss das ist das
+nachhaltig sein kann und wenn Geräte
+ausfallen dass sie möglicherweise
+ersetzt werden müssen dass es klar und
+ansonsten sollte jeder immer wieder auf
+die Debatte und den Verlauf der Debatte
+gucken um sich dann auch
+anzugucken wie schwierig ist manchmal
+ist zwischen dem was man sagt und dem
+was man dann tun kann zu unterscheiden
+Nachfrage wenn man
+die von Seiten sind lenskys genannte
+Benchmark 300 Panzer als Kriterium nimmt
+dann ist aber auch das jetzt erreichte
+deutlich unter dieser marche
+die will die Bundesregierung was will
+die Bundesregierung tun um diese Lücke
+zwischen angemeldeten Bedarf sag ich mal
+und zugesagte Lieferung zu schließen
+also wenn Sie jetzt die Bundesregierung
+die Bundesregierung tut wie alle
+Verbündeten nach Kräften das was sie zu
+leisten in der Lage ist wir hatten eben
+die Frage wie es um die eigene
+Verteidigungsfähigkeit wie es um die
+munitionsausstattung und ähnliches geht
+das muss jedes Land für sich auch im
+Auge behalten und es sind natürlich
+nicht nur die Bundesrepublik oder sind
+nicht nur Leopard zwei Panzer die dort
+zum Einsatz kommen werden und geliefert
+werden die wissen das habe ich hier vor
+einigen Wochen angekündigt dass es auch
+eine größere Anzahl Leopard 1 Panzer
+gekauft und dann dahin geliefert werden
+sollen sie wissen dass sie die britische
+Regierung sich mit dem Gedanken getragen
+hat zumindest den aktuellen Stand kenne
+ich nicht auch einige Challenger Panzer
+zu liefern ich weiß dass die
+amerikanische Seite gesagt hat sie werde
+Abrahams Panzer ein ganzes parteion also
+auch noch mal 31 liefern und genauso
+wird es immer weitergehen dass man sehen
+kann und jedes Land muss für sich
+entscheiden was ist verantwortlich
+liefern kann und will und in welchem
+Zeitraum und klar ist die Unterstützung
+für die Ukraine ist nachhaltig wir
+unterstützen Sie so lange wie es nötig
+ist sagte der Bundeskanzler aber das
+muss man immer wieder mit den eigenen
+Fähigkeiten abprüfen und das ist
+manchmal ein schmerzhafter Prozess weil
+zwischen dem was man gerne tun würde und
+dem was man verantwortlich tun kann gibt
+es ab und zu auch ein älter
+Mario Kubina ARD ich habe auch eine
+panzerfrage an Herrn kollarz allerdings
+zum Thema vjtf die zdf-kollegen
+berichten ja dass es im ich sag mal vier
+dafür führenden Bataillon in Thüringen
+Probleme mit etlichen Leopard 2 Panzern
+gibt was die budgetf-fähigkeit angeht
+ist das so und woran hat es konkret
+ja danke für die Frage gibt die
+Gelegenheit noch mal darauf aufmerksam
+zu machen das ist hier natürlich immer
+schwierig ist mit
+Papieren die irgendwo gehandelt werden
+und zahlen die dort enthalten sind
+umzugehen wenn diese Dinge unter
+Verschluss stehen das sind
+Verschlusssachen die dort gehandelt
+werden deswegen kann ich sie natürlich
+von Zahlenwert her hier überhaupt nicht
+kommentieren ich kann aber durchaus
+darauf hinweisen dass der
+vertrauensminister sich genau zu diesem
+Punkt erst von der Dreiviertelstunde
+geäußert hat und deutlich gemacht hat
+dass im Einsatzauftrag und an der
+Erfüllung auch durch das Bataillon
+überhaupt keinen Zweifel besteht er hat
+noch mal deutlich gemacht das ist
+sicherlich aufgrund der Belastung auf
+der Industrie einen kleinen ähm
+Instandsetzung Stau gibt in einigen
+Firmen aber dieser ist schon dabei
+behoben zu werden und zu jeder Zeit ist
+die Bundeswehr ist das deutsche her dass
+das ja auch noch mal deutlich gemacht
+hat gestern in den Antworten in der Lage
+sämtliche Bündnis Verpflichtung
+inklusive videotf zu jeder Zeit zu
+öffnen
+dann noch ein Zusatz in dem Zett bei der
+f-bericht heißt es auch dass wenn es
+möglicherweise eben doch Probleme geben
+sollte in Thüringen eine ein Bataillon
+in Bayern einspringen würde wo dann aber
+letztlich Leopard 2 Panzer für die
+Ausbildung fehlen würden also können sie
+vielleicht allgemein bestätigen dass es
+Bundeswehr intern da jetzt doch auch
+Verlegung geben muss um die widgetf
+Verpflichtung zu erfüllen und wenn ja ob
+es in der Folge dann auch Überlegungen
+gibt die Ausbildung am Leopard 2 in der
+Bundeswehr auch in den nächsten Monaten
+sicherzustellen an allen Standorten wo
+das relevant ist ich kann das genau nur
+genauso wie es gesagt habe das deutsche
+her in seiner Gesamtheit ist in der Lage
+zu jedem Zeitpunkt und unter jeder
+Bedingungen die Einsatzbedingungen der
+videotheker und anderer NATO
+Verpflichtung zu erfüllen
+gibt es weitere Fragen zu diesem Komplex
+das sehe ich nicht dann ist jetzt ja
+neues Thema genau es geht um die
+Unterbringung von Flüchtlingen dazu hat
+ja der Deutsche Städtetag ins Gespräch
+gebracht dass der Bund mehr eigene
+Unterkünfte bereitstellen soll und für
+größere erste Aufnahmen und das
+Asylbewerber ohne Bleibeperspektive gar
+nicht erst auf die Kommunen verteilt
+werden wie stehen Sie zu diesem
+Vorschlägen und
+da möglicherweise ist das für Herrn Kall
+aber ja auch wenn die
+Thema im Kanzleramt sein sollte auch für
+Sie
+wer möchte beginnen wahrscheinlich
+ja kann ich gerne beginnen also der Bund
+stellt ja den Ländern und Kommunen viele
+Unterkünfte zur Verfügung insbesondere
+über die bundesligaschaften der
+Bundesanstalt für Immobilien Aufgaben
+das sind aktuell 334 Liegenschaften die
+den Ländern und Kommunen für die
+flüchtlingsunterbringung zur Verfügung
+gestellt werden jetzt seit dem letzten
+Jahr aufgrund der großen
+Herausforderungen und des großen
+gemeinsamen Kraftakt inzwischen über
+eine Million geflüchtete aus der Ukraine
+unterzubringen und zugleich waren wir
+bei den Asyl Erstanträgen im vergangenen
+Jahr aber etwa 220.000 das bedeutet acht
+von zehn geflüchteten kommen aus der
+Ukraine sie wissen aber das von denen
+auch viele privat untergebracht sind
+und das ist eine große Herausforderung
+deswegen stellt der Bund so viele
+Immobilien zur Verfügung und prüft auch
+laufend weiter ob noch zusätzliche zur
+Verfügung gestellt werden können in
+diesen 334 Liegenschaften der
+Bundesanstalt für Immobilien Aufgaben
+sind etwa 69.000 unterbringungs Plätze
+die sind zum Teil ausgelastet zum Teil
+auch noch nicht zum Teil müssen sie auch
+noch besser hergerichtet werden
+zusätzlich sind in Ländern und Kommunen
+etwa 80 weitere Objekte bereits
+angeboten worden um noch zusätzliche
+Kapazitäten zu schaffen dazu muss man
+sagen dass dann aufgrundlage unserer
+Rechtsordnung die Unterbringung von
+geflüchteten in die Zuständigkeit der
+Länder fällt das heißt für sein zentrale
+Unterbringung auf Bundesebene gäbe es
+erstmal auch keine rechtliche Grundlage
+aber in dieser durchaus schwierigen
+Situationen in vielen Kommunen geht es
+weiter darum
+gemeinsam das zu organisieren und die
+Länder und Kommunen bestmöglich zu
+unterstützen und das machen wir seit der
+russische Angriffskrieg in der Ukraine
+begonnen hat
+vielleicht
+sehr sehr gut ausgezogen daher haben wir
+eine Nachfrage
+genau die Nachfrage wenn sie im Gespräch
+wie sie sagen mit Ländern und Kommunen
+sind inwiefern machen sie sich denn
+diesen Vorschlag des Städtetags dass die
+Leute ohne Bleibeperspektive nicht auf
+die Kommunen verteilt werden
+um die Bleibeperspektive zu prüfen geht
+es vor allen Dingen darum Asylverfahren
+schnell durchzuführen weil gerade da
+geht es ja darum zu schauen ob jemand
+einen Schutzbedürfnis hat und einen
+Schutzstatus bekommt und dazu hat die
+Bundesregierung ein Gesetz auf den Weg
+gebracht was der Bundestag auch
+beschlossen hat und zum ersten ersten
+Kraft getreten ist zur Beschleunigung
+von Asylverfahren und im letzten Jahr
+bereits sogar vor in Kraft treten des
+Gesetzes hat es durch eindeutigen
+Ressourcen Einsatz gerade auch beim BAMF
+eine deutliche Beschleunigung gegeben
+das hat erstmal sein die größte
+Priorität also wir Verfahren schnell zu
+führen das ist wichtig für die
+Betroffenen aber auch wichtig um die
+Bleibeperspektive zu prüfen Deutschland
+hat ein dezentrales unterbringungssystem
+ja deswegen es ist schwierig zu sagen
+erstmal irgendwo untergebracht werden
+und dann verteilt werden
+die Verteilung ist wichtig die
+Verteilung funktioniert auch gut wenn
+sie dem Königsteiner Schlüssel und der
+Verteilung insbesondere der geflüchteten
+aus der u Berliner schauen dann ist
+diese Verteilung nach
+bevölkerungsanteilen der Länder nach dem
+Königsteiner Schlüssel eigentlich gut
+gelungen und dieses dezentrale System
+ist sondern die Grundlage auf der wir
+gemeinsam mit Ländern und Kommunen
+arbeiten das ganze unterbringen muss
+Thema ist natürlich weiterhin zentral
+und das wesentliche Ergebnis des letzten
+Spitzengesprächs zur flüchtlingslage was
+ja erst vor kurzem bei uns im
+Bundesinnenministerium war war darüber
+über alle drei Ebenen hinweg in
+gemeinsamen Arbeitsstrukturen weiter zu
+beraten das bedeutet das nicht nur der
+Bund mit den Ländern redet und die
+Ländern mit den Kommunen sondern alle
+drei Ebenen übergreifend und ja auch ein
+Arbeitsprozess bis Ostern vereinbart
+haben um über die Frage auch weiter zu
+beraten da spielt das natürlich noch
+eine Rolle und mit dem Städtetag sind
+wir da im quasi täglichen Kontakt dazu
+ja nun ist die Unterbringung im
+Containern ja aber eben doch
+sozial wie vom Gefühl einer Kommune her
+immer eine besondere Angelegenheit
+können Sie uns sagen Überblick geben wie
+viele Menschen werden derzeit und
+vielleicht auch im Vergleich der
+jüngeren Vergangenheit als geflüchtete
+incontainer in Deutschland untergebracht
+oder können Sie das nachliefern nein
+darüber liegen keine bundesweiten Zahlen
+vor für die Unterbringung sind die
+Länder und Kommunen zuständig deswegen
+müssen sie ihre Frage bitte dort
+hinrichten ja aber deswegen frage ich
+ich kann mir ja vorstellen dass im BMI
+dann doch die Zahlen der Länder und
+Kommunen
+registriert werden können und sie
+sozusagen ein summarischen Überblick
+geben könnten nein ist das nicht so
+das liegt daran dass die Länder dafür
+zuständig sind und im Bund diesen
+Überblick auch nur bedingt geben das
+liegt aber auch daran dass die Lage in
+den ist kein Vorwurf sondern dass die
+Lage auch sehr heterogen ist und in
+einigen Kommunen angespannt ist in
+anderen noch Kapazitäten bestehen und
+diese auch sehr unterschiedlich sind
+deswegen müssen sie wirklich an die 16
+landesinn Ministerien oder jeweils
+zuständigen zum Teil sind auch
+Integrationsministerin diese Frage nicht
+Frage dazu dann sind Sie dran Herr Karl
+wie ist denn die Lage auf der westlichen
+Balkanroute jetzt haben sie Hinweise
+dass sich die Zahl der der
+geflüchteten dort erhöht auch im Zuge
+der schweren Erdbeben in der Türkei und
+Syrien
+ist nicht schwierig Frage er hat also
+die Zahl der unerlaubten einreisen ist
+zuletzt zurückgegangen die Zahl der
+Asylanträge meines Wissens auch da wird
+das BAMF jetzt in Kürze dann ist das
+nicht heute schon getan hat die
+aktuellen Asylzahlen für Februar
+veröffentlichen
+da gibt es Rückgänge im Vergleich zu den
+Vormonaten zumindest
+was die Auswirkung des Erdbebens angeht
+die die Erfahrung der internationalen
+flüchtlingsorganisation
+ist in der Regel das in solchen
+Katastrophen Regionen erstmal ist
+Bewegung in der Region gibt und weniger
+Bewegungen darüber hinaus insofern sehen
+wir die meines Wissens bis jetzt auch
+noch nicht aber
+das lässt sich natürlich alles nicht
+verlässlich prognostizieren
+dann ist Herr wild drin ja auch zum
+Thema Flüchtlinge inwieweit ist es
+eigentlich noch realistisch oder
+inwieweit wird noch versucht von Seiten
+der Bundesregierung die Flüchtlinge in
+der EU gemäß der Wirtschaftskraft und
+der Einwohnerzahl gleichmäßig zu
+verteilen oder ist das kein Ziel das
+verfolgt wird und zum Zeiten wie
+realistisch ist es eigentlich die
+Außengrenzen zu schützen Ihre Ansicht
+nach mit dem Ziel dass nur Flüchtlinge
+mit asylanspruch auch in die EU gelangen
+kann danke
+also zum Schutz der Außengrenzen das war
+gerade Thema des Europäischen Rates dann
+hat das ratschlussfolgerungen gegeben
+da sind diverse Maßnahmen die die
+EU-Kommission vorgeschlagen hat zum
+besseren Schutz der Außengrenzen beraten
+und ich glaube auch beschlossen worden
+insofern würde ich darauf gerne
+verweisen auch an die EU-Kommission
+verweisen für Deutschland ist es sehr
+wichtig dass die Maßnahmen zum
+außengrenzschutz möglichst unter dem
+frontextmandat stattfinden um eben auch
+für rechtsstaatliche und
+menschenrechtliche Standards überall an
+den Außengrenzen zu sorgen
+sie mir noch mal ihre erste Frage
+Entschuldigung Verteilung auf Europa ja
+Verteilung da hat die Bundesregierung im
+direkten Kontakt mit Frankreich zum
+Beispiel und mit anderen Staaten sehr
+viel getan als es die erste große
+Fluchtbewegung aus der Ukraine gab sie
+ändern sich vielleicht dass wir haben es
+eingerichtet haben um geflüchtete auch
+direkt weiter zu verteilen aber auf
+keine verbindliche Verteilung innerhalb
+der EU konnte sich die EU nicht einigen
+das bleibt Thema für uns jetzt ist es
+gelungen dass über den Winter hinweg
+keine zweite große Fluchtbewegung aus
+der Ukraine gab das hängt aus unserer
+Sicht auch also einerseits mit der
+Verteidigungsfähigkeit der Ukraine aber
+auch den massiven zivilen und
+humanitären Hilfen zusammen die es eben
+ermöglicht haben zum Beispiel die
+Energieinfrastruktur immer weiter auch
+immer wieder auch zu stabilisieren und
+zu verhindern dass sehr viele Menschen
+dann aus dem Winter in der Ukraine
+flüchten die bundesinnenministerin hat
+gesagt sollte es nochmals zu größeren
+Fluchtbewegungen aus der Ukraine kommen
+dann brauchen wir eine verbindliche
+Verteilung in der EU
+hey jung
+gerade
+[Musik]
+fragen ob es weitere Fragen zu Flucht
+Flüchtlingen Verteilung Debatten
+zwischen Bund und Ländern und Kommunen
+gibt nicht dann bitteschön
+erleichterte Visa Vergabe für die
+türkischen Erdbeben Opfer geben sollte
+können Sie uns mittlerweile eine Zahl
+geben wie viele Menschen jetzt konkret
+geholfen werden konnte also diese
+erleichtert durch diese erleichterten
+dieser
+sie meinen wie viele Menschen in
+Deutschland eingereist sind mit den
+Usern da müsst ihr uns BMI verweisen und
+was die Visa Vergabe angeht müsste ich
+total nachreichen habe ich jetzt nicht
+habe ich leider nicht dabei
+können wir uns weiterhelfen kann weiter
+Einreise müssten wir dann gemeinsam
+machen ja
+gibt es weitere Fragen zu diesem Thema
+das sehe ich nicht dann ist erstmal ja
+gestern dann äh neuen Frage noch ja
+Frage an verteilungsministerium es gibt
+Berichte das gestern Abend auf deutsche
+minus mal Soldaten oder nicht gestern
+einen Anschlag gegeben habe mit
+forstwaffen auf deutsche minusma
+Soldaten in Mali
+offenbar gab es keine verletzte ist
+inzwischen bekannt wer diesen Anschlag
+verübt hat
+also ich kann bestätigen dass es sich
+ich glaube vorgestern was vor drei Tagen
+bereits am 4 märz in Gau bei einer
+Patrouille zu dem Vorfall oder diesen
+Vorfall gegeben hat es kam zu einem
+Beschuss aus etwa 150 Metern Entfernung
+zwei Einschusslöcher am Fahrzeug sind
+erkannt worden es sind keine Verletzten
+zu verzeichnen der Auftrag wurde vor Ort
+noch abgebrochen und sortiert ins Lager
+zurückverlegt die
+Spuren suchen wenn man das mal so sagen
+darf führten aber bisher zu kein
+Ergebnis
+gibt es ist es ein Einzelfall oder baut
+er sich ein in einen Muster von
+Heckenschützen oder wie auch immer
+Attentaten gegen -kräfte also sie werden
+die Medienberichte verfolgt haben das
+Minus mal insgesamt
+Druck zu verzeichnen hat aber was den
+deutschen Anteil anging waren wir in den
+letzten Wochen in der glücklichen Lage
+eine solche Dinge nicht feststellen zu
+müssen
+deshalb jetzt noch mal gefragt bleibt
+die Bundesregierung dabei dass man da
+dann letztmals um ein Jahr zu verlängern
+soweit ich die Frage annehmen kann kann
+ich nur drauf hinweisen dass die
+Bewertung des Einsatzes durch
+das BMVg ja unverändert ist wir sehen
+insgesamt den Hintergrund politische
+schwierig an und ähm
+operativer Druck auf deutsche Kräfte
+wird sicherlich auch indem man das
+Diskussion mit einzubeziehen soll
+ich glaube das war sehr Konrad jetzt
+gesagt hat ist in dem Sinne dass wir
+hier keinen neuen Stand zu verkünden
+haben
+weitere Fragen zum Thema Mali das sehe
+ich nicht dann machen wir einfach mal
+ja auf die Frage von den Jungen nach den
+Visa zahlen kann ich vielleicht
+nachreichen danke an die Kolleginnen die
+zuschauen und mir das schnell geliefert
+haben dass stand Freitag
+1333 Visa erteilt worden sind davon 1,97
+im vereinfachten Verfahren die übrigen
+waren nationale Visa zum Familiennachzug
+er hört sich jetzt nicht so viel an sind
+das
+größenmarsch die mit denen Sie im
+Vorfeld gerechnet haben naja wir haben
+ja das haben wir hier auch schon
+vielfach ausgeführt sehr schnell
+organisatorische Maßnahmen ergriffen
+damit die Menschen in der Türkei in den
+Erdbebengebieten die hier zu äh zu ähm
+Familienangehörigen in Deutschland
+kommen wollen kurzfristig
+kommen können insofern ist die Zahl
+dazu
+wenn das Thema ist noch mal aufgerufen
+wurde es gibt ja auch ein visa-bus der
+im Einsatz ist in den Erdbebengebieten
+wie läuft denn dieser Einsatz wird der
+angenommen gibt es vielleicht auch
+Zahlen dazu wie viele Visa über diesen
+Bus anberaumt werden konnten es handelt
+sich um einen mobiles Visa
+annahmezentrum unseres externen
+Dienstleister in der Türkei die genauen
+Zahlen wie viele Visa Anträge in diesem
+Bus bearbeitet worden sind der ja
+sozusagen vor allen Dingen in den
+Gebieten zum Einsatz kommt wo ja durch
+den Ausfall Erdbeben ist kein keine die
+die Infrastruktur nicht mehr gegeben war
+müssen die Nachrichten habe ich jetzt
+nicht da
+bitte und erster Eindrücke von den
+Mitarbeitenden vor Ort wie das
+angenommen wird gibt es die
+kann ich jetzt hier so aus der Menge
+nicht leisten
+gibt es weitere Fragen aber es wird ja
+angenommen also das zeigen
+das sehe ich nicht dann machen wir
+erstmal in der Mitte weiter neues mal
+eine Frage an Herrn Hebestreit nach
+israelischen Medienberichten kommt
+Ministerpräsidenten nächste Woche am 16
+März nach Berlin um die Bundeskanzler zu
+treffen können Sie das bestätigen wie
+Sie wissen berichten wir über die
+Termine des Bundeskanzlers in der Regel
+am Freitag der Vorwoche heute ist
+Dienstag auch wenn es außergewöhnlich
+ist würde ich sie am Freitag verweisen
+und dann werden wir sehen ob bis dahin
+solchen Termin gibt oder nicht da freuen
+wir uns auf Freitag und auf Russisch
+danke schön gibt es weitere Fragen dazu
+dass ich nicht dann ist er jung dran mit
+einem neuen Thema noch
+ja Thema Steuersystem da hatte ja die
+Bundesfamilienministerin angelegt das
+ist eine Reform dessen bräuchte
+insbesondere geht's immer mein
+Geschlecht der gerechtes Steuersystem
+dafür braucht es eine neue Gestaltung
+der Steuerklasse
+5
+darum eine Frage ganz
+teilen Sie diese Reformpläne und hier
+geht's ja glaube ich auch um das
+Ehegattensplitting
+ist der Bundesfinanzminister eigentlich
+immer noch für das Ehegatten
+vielen Dank
+die
+Berichterstattung auf die sie verweisen
+hat ja unter anderem zugrunde eine
+steuerklassenreform
+bezüglich der Klassen 3 und 5 das findet
+sich so auch im Koalitionsvertrag
+dabei sollen für Ehepartner die
+steuermindernde Wirkung des
+blickingverfahrens bereits bei
+monatlichen notsteuerabzug für einen
+Arbeits- und berücksichtigt werden die
+höhere Besteuerung in der Steuerklasse 5
+würde dadurch vermieden eine gerechte
+Verteilung der lohnsteuerbelastungen
+anhand der in der Ehe gemeinsam
+bezogenen Arbeitslöhne würde dadurch
+erreicht und das Ministerium erarbeitet
+derzeit das dazu erforderliche
+gesetzesänderungspaket soweit zu den
+Steuerklassen 53 also sprich es ist ein
+Vorhaben aus dem Koalitionsvertrag das
+wird angegangen
+den anderen Punkt den Sie angesprochen
+haben nach dem Koalitionsvertrag sind in
+dieser Legislaturperiode keine Änderung
+beim sogenannten Ehegatten vorgesehen
+das ja es ist ja bekannt mich würde die
+Haltung des Bundesfinanzministers
+interessieren ist er für weiterhin für
+das ganze
+sehen Sie es mir bitte nach ich habe
+jetzt nicht direkt mit dem Minister
+konferiert dazu sondern ist ihr Haus für
+das okay wenn Sie jetzt das Ministerium
+konkret ansprechen wie gesagt es ist
+kein Vorhaben aus dem Koalitionsvertrag
+insoweit sind hier keine gesetzlichen
+Änderungen vorgesehen
+bis weitere Fragen zu dem Komplex das
+sehe ich nicht dann haben wir eine
+Nachreichung von Herrn Karl noch mal zur
+Haftungsfrage bei 5g
+genau Herr Radner sie hatten glaube ich
+gefragt da muss ich gleich schon mal aus
+wording eingehen also um Haftung ginge
+es da gar nicht Haftung kann es nur für
+bei rechtswidrigem staatlichen Handeln
+geben also um solche Konstellationen
+geht es von vorne herein gar nicht
+wenn dann ging es um
+kompensationsleistung für den Fall einer
+Untersagung bestimmter technischer
+Komponenten und da kann ich Ihnen sagen
+dass das BSI gesetzt keine
+kompensationsleistung vorsieht
+das ist etwas was in den Beratungen zum
+it-sicherheitsgesetz 20 so hieß es
+damals beraten wurde aber was das Gesetz
+nicht vorsieht
+gibt es weitere Fragen noch mal dazu das
+sehe ich nicht gibt es noch andere
+Fragen
+das sehe ich auch nicht dann wünsche ich
+morgen einen schönen Feiertag und wir
+sehen uns am Freitag vielen Dank
+[Musik]
+[Musik]
+[Musik]

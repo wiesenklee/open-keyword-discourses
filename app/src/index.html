@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Open Keyword Discourses</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header class="container">
+    <hgroup>
+      <h2>Open Keyword Discourses</h2>
+      <p>A small data and design project at FH Aachen</p>
+    </hgroup>
+  </header>
+  <main class="container">
+    <div class="container" style="height: 500px; padding: 10px;"><canvas id="chart"></canvas></div>
+    <form action="javascript:void(0);">
+      <fieldset role="group">
+        <input id="keyword-input" type="text" placeholder="Keyword" minlength="3" required />
+        <input id="keyword-button" type="submit" value="Add" />
+      </fieldset>
+      <input id="remove-keyword-button" type="submit" value="Remove last" />
+    </form>
+  </main>
+  <script type="module" src="chart.ts"></script>
+</body>
+
+</html>
