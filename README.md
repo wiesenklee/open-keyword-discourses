@@ -1,4 +1,4 @@
-# Digitale Discourses - Digitale Diskurse
+# Digitale Diskurse
 Diskursanalyse anhand von Schlagwörtern
 
 ## Abstrakt
